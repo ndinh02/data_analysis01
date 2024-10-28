@@ -1,6 +1,3 @@
-# data_analysis01
-Practicing my knowledge with real-life situation
-
 # Data Analysis - Sales Management 
 
 #### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=21ea9f43-afe6-47a0-b0b6-bd7af9ba2604&autoAuth=true&ctid=8970fcb4-607e-4d4e-81f0-6323ee43eeb6
