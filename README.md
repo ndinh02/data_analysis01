@@ -17,7 +17,7 @@ The requirement for this project originates from the Sales Manager, where he/she
 | 4  | Sales Manager                              | Overview of online sales                           | To track sales performance in comparison to the budget over the last 3 years | Power BI dashboard with KPIs compared to the budget |
 
 ## Daten Cleansing und Transformation (SQL)
-To build the data model, the required data was extracted from the SQL database. I create 3 DIM Tables and 1 FACT Table. The details how i filter out the necessary data from database will be included as sql files. 
+To build the data model, the required data was extracted from the SQL database. I create 3 DIM Tables and 1 FACT Table. The detail files, how i filtered out the necessary data from database, will be included as sql files. 
 
            *Note*: An Excel file for the budget was also provided and later added in Power BI.
 
