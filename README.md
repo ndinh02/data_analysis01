@@ -1,7 +1,8 @@
 # Data Analysis - Sales Management 
 
 #### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=21ea9f43-afe6-47a0-b0b6-bd7af9ba2604&autoAuth=true&ctid=8970fcb4-607e-4d4e-81f0-6323ee43eeb6
-
+ 
+###### AdventureWorks sample databases: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
 ## Problem Statement
 
 This dashboard helps the Sales Manager understand customers better. It helps the Sales department know, which customers have bought from us the most and which product categories had the best performance on the Website. Through KPIs, they get to see the sales volume through out the year from 2022 to 2024, thus they can from here improve their services and procurement plan by identifying the Top Customers and Top Products. It also lets them know the distribution of the customers all over EU, thus by using this interactive map, they can further work on the next sales strategy.
